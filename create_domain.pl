@@ -1,0 +1,1 @@
+virtualmin create-domain --domain foo.com --pass smeg --desc "The server for foo" --unix --dir --webmin --web
